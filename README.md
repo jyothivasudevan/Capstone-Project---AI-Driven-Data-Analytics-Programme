@@ -16,4 +16,4 @@ Dataset Url - https://huggingface.co/datasets/allenborochin/zomato_delivery_EDA/
 Python is an all rounder in the data analyitcs world - starting from data preprocessing to data analysis.
 This project helped me to get more familiarise with Python.
 There were mistakes, but solving them really excited to do more such projects. 
-I have done data preprocessing, transformation and exploratory data analysis with and without visualizations, incorporatin univariate , bivariate and multivariate analysis.
+I have done data preprocessing, transformation and exploratory data analysis with and without visualizations, incorporating univariate , bivariate and multivariate analysis.
